@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995153796297",
+    "firebase_url": "https://listtodo-761e9.firebaseio.com",
+    "project_id": "listtodo-761e9",
+    "storage_bucket": "listtodo-761e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995153796297:android:e024d9a6d1198fd9",
+        "android_client_info": {
+          "package_name": "com.example.android.listtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995153796297-rp8r15p9vm9ghm0e7bcvqiaphqk6ngcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.listtodo",
+            "certificate_hash": "82842ab0b1f242a011b79a2b2574428a00aa860f"
+          }
+        },
+        {
+          "client_id": "995153796297-d1b2hfbu9rfoduqoa4gsb7ne2smukend.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK55AyODEYcP6UFTG0egccswyH0i5qbkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995153796297-d1b2hfbu9rfoduqoa4gsb7ne2smukend.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
